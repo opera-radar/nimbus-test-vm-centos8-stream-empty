@@ -77,7 +77,7 @@ Name the VM snapshot something like this: **"Snapshot 1 - CentOS8 + docker: NIMB
 
 
 
-# NOTE: Splitting (virtualbox) OVA image from multiple file:
+### NOTE: Splitting (virtualbox) OVA image from multiple file:
 
 ```
 split -b 2GB CentOS8-Stream-For-NIMBUS.ova CentOS8-Stream-For-NIMBUS.ova.part_
