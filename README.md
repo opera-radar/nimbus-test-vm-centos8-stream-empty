@@ -25,11 +25,12 @@ After the import if the *.ova image into VirtualBox you can boot this virtual ma
 
 Login into graphical window manager as *devtest* (#1). 
 You can become *root* (#2). Use given credentials.
-You have multiple desktops. 
-In one desktop open a terminal and become root user (su). You need this for executing docker commands.
+
+
+You have multiple desktops. In one desktop open a terminal and become root user (su). You need this for executing docker commands.
 In the second desktop open firefox. 
 
-Once the NIMBUS-Baltrad installation into Docker is finished you can use the [Baltrad WEB-gui](https://localhost:8443/BaltradDex).
+Once the NIMBUS-Baltrad installation into Docker is finished you can use the [Baltrad WEB-gui] (https://localhost:8443/BaltradDex).
 
 In the Window Manager you have multiple desktops at your disposal. 
 The 2nd desktop you can have Firefox with some handy bookmarks such as:
