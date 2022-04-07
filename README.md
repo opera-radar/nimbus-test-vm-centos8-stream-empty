@@ -17,6 +17,8 @@ into your VirtualBox installation for smooth integration of mouse+keyboard and c
 
 You can import this VM-image **(CentOS8-Stream-For-NIMBUS.ova)** into your VirtualBox.
 
+Look for "**Import Virtual Appliance**" in VirtualBox. Use the **expert mode**.
+
 You can choose how much memory and how many CPU’s will your virtual machine have.
 
 8 GB RAM, 4x CPU’s could be reasonable to start with.
